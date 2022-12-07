@@ -36,7 +36,7 @@
     "uuid": "^3.3.2",
     "video.js": "^7.5.4",
     "winston": "^2.4.4",
-    "youtube-api": "^2.0.10",
+    "youtube-api": "^3.0.1",
     "purecss": "^0.6.0"
   },
   "devDependencies": {
