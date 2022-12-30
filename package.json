@@ -26,7 +26,7 @@
     "ffmpeg": "0.0.4",
     "get-video-duration": "^0.2.0",
     "ip": "^1.1.5",
-    "json2csv": "^3.11.5",
+    "json2csv": "^5.0.7",
     "jquery": "^3.1.0",
     "lodash": "^4.17.11",
     "moment": "^2.23.0",
